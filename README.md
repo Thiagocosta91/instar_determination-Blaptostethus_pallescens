@@ -1,5 +1,5 @@
 # Code and data: Instar determination of *Blaptostethus pallescens* (Hemiptera: Anthocoridae) using artificial neural networks
-Code and data to perform in R the analysis presented in the paper "Instar determination of *Blaptostethus pallescens* (Hemiptera: Anthocoridae) using artificial neural networks" (Carmo et al. 2019)  
+Code and data to perform in R the analysis presented in the paper "Instar determination of *Blaptostethus pallescens* (Hemiptera: Anthocoridae) using artificial neural networks" (Carmo et al. 2019).  
 
 ## Instar determination of *Blaptostethus pallescens* (Hemiptera: Anthocoridae) using artificial neural networks
 
