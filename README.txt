@@ -4,11 +4,11 @@
 
 #  Instar determination of Blaptostethus pallescens (Hemiptera: Anthocoridae) using artificial neural networks  
 
-#  Daiane das Graças do Carmo<sup>1</sup>, Elizeu de Sá Farias<sup>1</sup>, Thiago Leandro Costa<sup>2</sup>, Elenir Aparecida Queiroz<sup>1</sup>, Móyses Nascimento<sup>3</sup>, Marcelo Coutinho Picanço<sup>1</sup>
+#  Daiane das Graças do Carmo 1, Elizeu de Sá Farias 1, Thiago Leandro Costa 2, Elenir Aparecida Queiroz 1, Móyses Nascimento 3, Marcelo Coutinho Picanço 1
 
-# <sup>1</sup>Departamento de Entomologia, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
-<sup>2</sup>Departamento de Fitotecnia, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
-<sup>3</sup>Departamento de Estatística, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
+# 1 Departamento de Entomologia, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
+  2 Departamento de Fitotecnia, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
+  3 Departamento de Estatística, Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil, 36570-900
 
 
 #  Part: README to run the analyses in R                                                                                                                    # 
