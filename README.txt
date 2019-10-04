@@ -30,12 +30,9 @@
 
  
 
-### 3. Packages needed to perform the analysis
+### 3. Package needed to perform the analysis
 
-* 'NbClust' package v. 3.0 --- https://CRAN.R-project.org/package=NbClust
-
-* 'GGally' package v. 1.4.0 --- https://CRAN.R-project.org/package=GGally
-
+* 'stats' package v. 4.0.0
 
 
 
