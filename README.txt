@@ -2,7 +2,8 @@
 
 #############################################################################################################################################################
 
-#  Instar determination of Blaptostethus pallescens (Hemiptera: Anthocoridae) using artificial neural networks
+#  Instar determination of Blaptostethus pallescens (Hemiptera: Anthocoridae) using artificial neural networks  
+
 #  Daiane das Graças do Carmo, Elizeu de Sá Farias, Thiago Leandro Costa, Elenir Aparecida Queiroz, Móyses Nascimento, Marcelo Coutinho Picanço
 
 #  Part: README to run the analyses in R                                                                                                                    # 
