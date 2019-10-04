@@ -1,4 +1,102 @@
 
-##############################################################################################################################################################  Instar determination of Blaptostethus pallescens (Hemiptera: Anthocoridae) using artificial neural networks
-##  Part: README to run the analyses in R                                                                                                                    # #  03rd October 2019                                                                                                                                        # ############################################################################################################################################################# ### 1. Morphometric variables used as predictors in the artificial neural network to determine the Blaptostethus pallescens instars.
-* disant -> head width (HW)* lar -> body width (BW)* com -> body length (BL) ### 2. Data and Scripts* " Cluster_analysis.R" allows to run the data "agrupamento.txt"  ### 3. Packages needed to perform the analysis* 'NbClust' package v. 3.0 --- https://CRAN.R-project.org/package=NbClust* 'GGally' package v. 1.4.0 --- https://CRAN.R-project.org/package=GGally
+
+#############################################################################################################################################################
+
+#  Instar determination of Blaptostethus pallescens (Hemiptera: Anthocoridae) using artificial neural networks
+#
+
+#  Part: README to run the analyses in R                                                                                                                    # 
+
+#  03rd October 2019                                                                                                                                        # 
+
+#############################################################################################################################################################
+
+ 
+
+### 1. Morphometric variables used as predictors in the artificial neural network to determine the _Blaptostethus pallescens_ instars.
+
+
+* disant -> head width (HW)
+
+* lar -> body width (BW)
+
+* com -> body length (BL)
+
+
+
+### 2. Data and Scripts
+
+* " Cluster_analysis.R" allows to run the data "agrupamento.txt" 
+
+ 
+
+### 3. Packages needed to perform the analysis
+
+* 'NbClust' package v. 3.0 --- https://CRAN.R-project.org/package=NbClust
+
+* 'GGally' package v. 1.4.0 --- https://CRAN.R-project.org/package=GGally
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
